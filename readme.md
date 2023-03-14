@@ -2,4 +2,4 @@
 
 ![image](https://user-images.githubusercontent.com/47706364/224894753-bc052a5f-a651-4eb7-9a5d-cbd2bbfd9a99.png)
 
-A simple IP checker
+A simple IP checker for windows
